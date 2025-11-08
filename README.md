@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-  1.	Create a Windows 10 Virtual Machine in Microsoft Azure
+  	1.	Create a Windows 10 Virtual Machine in Microsoft Azure
 	2.	Enable and configure IIS (Internet Information Services)
 	3.	Install PHP Manager for IIS and Rewrite Module
 	4.	Download and install PHP (v7.3+ recommended)
@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### Step 1: Create and connect to the Windows 10 VM
 <p align="center">
-  <img src="./cc/os-ticket/ss-1.png" alt="Azure VM setup" width="80%"/>
+  <img src="./ss-1.png" alt="Azure VM setup" width="80%"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
