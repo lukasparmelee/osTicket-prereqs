@@ -50,7 +50,8 @@ Used **Microsoft Azure** to deploy a **Windows 10 Virtual Machine** as a secure,
 <img src="./ss-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-Enabled **Internet Information Services (IIS)** through Windows Features, including required modules like **CGI** and **Common HTTP Features**. Verified successful setup by browsing to `http://localhost` and confirming the IIS default web page loaded. Configured IIS to serve as the main web server for hosting the osTicket application.
+Enabled Internet Information Services (IIS) through Windows Features, including required modules like CGI and Common HTTP Features. Verified successful setup by browsing to http://localhost and confirming the IIS default web page loaded. Configured IIS to serve as the main web server for hosting the osTicket application.
+
 ---
 
 ### Step 3: Install PHP, MySQL, and osTicket
