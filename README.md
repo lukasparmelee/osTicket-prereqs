@@ -45,6 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
+### Step 2: Install and configure IIS
 <p>
 <img src="./ss-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -55,12 +56,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Step 3: Install PHP, MySQL, and osTicket
 <p>
-### PHP
-<img src="./PHP-SS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-### MySQL
-<img src="./sql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-osTicket
-<img src="./os.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="./PHP-SS.png" height="80%" width="80%" alt="PHP Installation"/>
+<img src="./sql.png" height="80%" width="80%" alt="MySQL Installation"/>
+<img src="./os.png" height="80%" width="80%" alt="osTicket Installation"/>
 </p>
 
 ---
