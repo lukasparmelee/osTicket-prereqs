@@ -55,8 +55,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Step 3: Install PHP, MySQL, and osTicket
 <p>
+### PHP
 <img src="./PHP-SS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+### MySQL
 <img src="./sql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+osTicket
+<img src="./os.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 ---
