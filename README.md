@@ -40,24 +40,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p align="center">
   <img src="./ss-1.png" alt="Azure VM setup" width="80%"/>
 </p>
-<p>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+---
 
 <p>
 <img src="./ss-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+---
+
+### Step 3: Install PHP, MySQL, and osTicket
 <p>
 <img src="./PHP-SS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="./sql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+
+---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+## 🧾 About
+
+This project documents the **installation and setup of osTicket**, an open-source support ticket system widely used in IT support and Service Desk operations.  
+It demonstrates understanding of **server setup, IIS configuration, PHP integration, and database management** in a Windows environment.
+
+---
