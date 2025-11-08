@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <img src="./ss-1.png" alt="Azure VM setup" width="80%"/>
 </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Used **Microsoft Azure** to deploy a **Windows 10 Virtual Machine** as a secure, cloud-based environment for hosting osTicket. Configured networking and inbound security rules, then accessed the VM remotely using **Remote Desktop Protocol (RDP)**. This step established the foundation for installing and managing all other required components.
 
 ---
 
@@ -50,8 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="./ss-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Enabled **Internet Information Services (IIS)** through Windows Features, including required modules like **CGI** and **Common HTTP Features**. Verified successful setup by browsing to `http://localhost` and confirming the IIS default web page loaded. Configured IIS to serve as the main web server for hosting the osTicket application.
 ---
 
 ### Step 3: Install PHP, MySQL, and osTicket
@@ -63,10 +62,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed **PHP 7.3+** and configured it in IIS using **PHP Manager** and the **URL Rewrite Module** to ensure compatibility with osTicket. Set up **MySQL Server** as the backend database and connected via **HeidiSQL** to create the osTicket database. Downloaded and extracted osTicket into the `C:\inetpub\wwwroot\osTicket` directory, configured file permissions, and completed the web-based installation wizard. After setup, verified that tickets could be created, assigned, and managed within the osTicket dashboard.
+
+---
 
 ## 🧾 About
 
-This project documents the **installation and setup of osTicket**, an open-source support ticket system widely used in IT support and Service Desk operations. It demonstrates understanding of **server setup, IIS configuration, PHP integration, and database management** in a Windows environment.
+This project documents the **installation and setup of osTicket**, an open-source support ticketing system widely used in IT support and Service Desk environments.  
+It demonstrates the ability to configure and manage **server infrastructure**, perform **IIS and database integration**, and deploy a **fully functional web-based help desk system**.
+
+**Skills Demonstrated:**  
+- Azure Virtual Machine Deployment  
+- IIS and Web Server Configuration  
+- PHP and MySQL Setup  
+- Remote Desktop Administration  
+- IT Service Management Software Deployment  
 
 ---
