@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### Step 1: Create and connect to the Windows 10 VM
 <p align="center">
-  <img src="./ss-1.png" alt="Azure VM setup" width="80%"/>
+  <img src="./os-ticket/ss-1.png" alt="Azure VM setup" width="80%"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
