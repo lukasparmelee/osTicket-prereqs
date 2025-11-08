@@ -68,8 +68,7 @@ Installed **PHP 7.3+** and configured it in IIS using **PHP Manager** and the **
 
 ## 🧾 About
 
-This project documents the **installation and setup of osTicket**, an open-source support ticketing system widely used in IT support and Service Desk environments.  
-It demonstrates the ability to configure and manage **server infrastructure**, perform **IIS and database integration**, and deploy a **fully functional web-based help desk system**.
+This project documents the **installation and setup of osTicket**, an open-source support ticketing system widely used in IT support and Service Desk environments. It demonstrates the ability to configure and manage **server infrastructure**, perform **IIS and database integration**, and deploy a **fully functional web-based help desk system**.
 
 **Skills Demonstrated:**  
 - Azure Virtual Machine Deployment  
