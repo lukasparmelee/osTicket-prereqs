@@ -65,7 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## 🧾 About
 
-This project documents the **installation and setup of osTicket**, an open-source support ticket system widely used in IT support and Service Desk operations.  
-It demonstrates understanding of **server setup, IIS configuration, PHP integration, and database management** in a Windows environment.
+This project documents the **installation and setup of osTicket**, an open-source support ticket system widely used in IT support and Service Desk operations. It demonstrates understanding of **server setup, IIS configuration, PHP integration, and database management** in a Windows environment.
 
 ---
