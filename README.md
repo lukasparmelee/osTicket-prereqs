@@ -149,12 +149,6 @@ Confirmed osTicket was fully operational and connected to the database.
 
 ---
 
-### Step 9: Cleanup
-- Deleted setup directory: `C:\inetpub\wwwroot\osTicket\setup`  
-- Set permissions of `C:\inetpub\wwwroot\osTicket\include\ost-config.php` to **Read-only**  
-
----
-
 ## 🧾 Summary
 
 This lab demonstrated the complete installation and configuration of osTicket on a Windows 10 virtual machine hosted in Azure.  
