@@ -51,12 +51,10 @@ Enabled Internet Information Services (IIS) through Windows Features, including 
 
 ---
 
-### Step 3: Install PHP
+### Step 3: Install PHP, MySQL, and osTicket
 <p align="center">
   <img src="./PHP-SS.png" height="80%" width="80%" alt="PHP Installation"/>
-  Install MySQL
   <img src="./sql.png" height="80%" width="80%" alt="MySQL Installation"/>
-  Install osTicket
   <img src="./os.png" height="80%" width="80%" alt="osTicket Installation"/>
 </p>
 
