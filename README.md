@@ -5,11 +5,6 @@ The goal of this lab was to deploy and configure osTicket within a Windows 10 vi
 
 ---
 
-### 🎥 Video Demonstration
-**YouTube:** [How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=)
-
----
-
 ### 🧰 Environments and Technologies Used
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (RDP)
