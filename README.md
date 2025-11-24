@@ -146,8 +146,7 @@ Confirmed osTicket was fully operational and connected to the database.
 
 ## 🧾 Summary
 
-This lab demonstrated the complete installation and configuration of osTicket on a Windows 10 virtual machine hosted in Azure.  
-It required integration of IIS, PHP, and MySQL, followed by successful deployment and hardening of the osTicket environment.
+This lab demonstrated the complete installation and configuration of osTicket on a Windows 10 virtual machine hosted in Azure. It required integration of IIS, PHP, and MySQL, followed by successful deployment and hardening of the osTicket environment.
 
 ---
 
