@@ -20,8 +20,7 @@
      - Region: **East US 2**
      - Image: **Windows 10 Enterprise - 22H2**
      - Size: **Standard_E2s_v3**
-     - Administrator account: `labuser` (I created this; not shared)
-   - Screenshot: `/screenshots/01_vm_basics.png` — shows the Basics tab with chosen values.
+     - Administrator account: `labuser` 
 
    ![VM Basics](/basics.png)
 
