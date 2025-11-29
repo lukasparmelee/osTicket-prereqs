@@ -19,7 +19,6 @@
 2. On **Disks** tab:
    - OS disk type: `Premium SSD`
    - Data disk: none added for this lab
-   - Screenshot: `/screenshots/02_vm_disks.png`.
    ![Disks](/disks.png)
 
 3. On **Networking** tab:
@@ -27,7 +26,6 @@
    - Subnet: `default`
    - Public inbound ports: **RDP (3389)** — restricted to your public IP address `X.X.X.X/32`
    - Network security group: default (we will add NSG rules later)
-   - Screenshot: `/networks.png`.
    ![Networking](/networks.png)
 
 4. Review + Create → Confirm the validation passed → **Create**.
