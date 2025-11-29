@@ -1,14 +1,6 @@
+**Goal** Create a Windows 10 VM to host osTicket and supporting software (IIS, PHP, MySQL).
+
 ## Step 1 — Create the Windows 10 VM (Azure Portal)
-
-**Goal:** Create a Windows 10 VM to host osTicket and supporting software (IIS, PHP, MySQL).
-
-**Prerequisites**
-- Azure subscription (example: `AZURE subscription 1`)
-- Resource group: `osTicket`
-- VM name to create: `osticket-vm`
-- Region: `East US 2`
-- Size: `Standard_E2s_v3` (2 vCPU, 16 GB memory)
-- OS image: `Windows 10 Enterprise - 22H2`
 
 **Exact steps and UI paths**
 
