@@ -25,7 +25,6 @@
    - Virtual network: `vnet-eastus2(osticket-vm)` (create new)
    - Subnet: `default`
    - Public inbound ports: **RDP (3389)** — restricted to your public IP address `X.X.X.X/32`
-   - Network security group: default (we will add NSG rules later)
    ![Networking](/networks.png)
 
 4. Review + Create → Confirm the validation passed → **Create**.
@@ -33,12 +32,10 @@
 
 5. After deployment, open the VM **Overview** page:
    - Verify public IP address and status **Running**.
-   - Screenshot: `/screenshots/05_vm_overview.png`.
    ![VM Overview](/overview.png)
 
 6. Connect via RDP:
    - Download RDP → RDP → Click the "+" → Add PC → Put in the public IP address → click "add" → then enter the login: "labuser" and password: "Cyberlab123!"
-   - Screenshot: `/screenshots/06_rdp_connection.png` (shows desktop of Windows VM).
    ![RDP Desktop](/connection.png)
 
 ## Step 2 Confirguring osTicket
@@ -68,7 +65,6 @@
 2. Install "rewrite_amd64_en-US"
 - Then within the same folder we will install rewrite_amd64_en-US
 - Agree to the terms then click install
-
 ![Install "rewrite_amd64_en-US"](/rewrite.png)
 
 ## Step 4 Create the directory C:\PHP
