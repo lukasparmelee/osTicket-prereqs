@@ -27,14 +27,16 @@
    - Public inbound ports: **RDP (3389)** — restricted to your public IP address `X.X.X.X/32`
    ![Networking](/networks.png)
 
-4. Review + Create → Confirm the validation passed → **Create**.
-   - Screenshot: `/review.png` (shows the review page and validation).
 
-5. After deployment, open the VM **Overview** page:
+4. Review + Create → Confirm the validation passed → **Create**.
+
+---
+
+6. After deployment, open the VM **Overview** page:
    - Verify public IP address and status **Running**.
    ![VM Overview](/overview.png)
 
-6. Connect via RDP:
+7. Connect via RDP:
    - Download RDP → RDP → Click the "+" → Add PC → Put in the public IP address → click "add" → then enter the login: "labuser" and password: "Cyberlab123!"
    ![RDP Desktop](/connection.png)
 
