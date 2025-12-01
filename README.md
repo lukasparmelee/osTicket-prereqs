@@ -129,7 +129,7 @@
 - Then Enable: php_imap.dll, php_intl.dll, and php_opcache.dll
 - Then refresh the osTicket site and we should see the changes
 
-![osTicket Page Refresh](/Refresh.png)
+![osTicket Page Refresh](/refresh.png)
 
 ## Step 13 Rename ost-config.php and assign permissions
 - Rename: ost-config.php, From: "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" To: "C:\inetpub\wwwroot\osTicket\include\ost-config.php"
@@ -156,7 +156,7 @@
 - Admin username: "adminuser" Admin password: "Password1"
 - Database settings: mySQL Database: osTicket, MySQL Username: "root", mySQL Password: "root"
 - Then click "Install Now" at the bottom of the page
-![osTicket](/baisc.png)
+![osTicket](/basic.png)
 
 ## Step 16 Go to your osTicket URL:
 - Now we will go to our help desk Agemt login page "http://localhost/osTicket/"
