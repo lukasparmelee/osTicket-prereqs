@@ -1,4 +1,4 @@
-**Goal** Create a Windows 10 VM to host osTicket and supporting software (IIS, PHP, MySQL).
+#**Goal** Create a Windows 10 VM to host osTicket and supporting software (IIS, PHP, MySQL).
 
 ## Step 1 — Create the Windows 10 VM (Azure Portal)
 
